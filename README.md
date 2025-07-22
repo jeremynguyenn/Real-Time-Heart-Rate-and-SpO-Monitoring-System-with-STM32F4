@@ -1,8 +1,9 @@
-# Real-Time Heart Rate and SpO₂ Monitoring System with STM32F446RE
+# Real-Time Heart Rate and SpO₂ Monitoring System with STM32F4
+STM32F4 | MAX301102 sensor | ILI9341 LCD| Signal Processing | Driver Development
 
 ## Overview
 
-This project demonstrates a real-time heart rate and SpO₂ monitoring system using the **STM32F446RE Nucleo board**. It integrates the **MAX301102 Pulse Oximeter and Heart-Rate Sensor** for PPG signal acquisition, and the **ILI9341 LCD** for real-time signal visualization and user interaction. The system features custom drivers for efficient data acquisition, filtering, peak detection, and parameter estimation.
+This project demonstrates a real-time heart rate and SpO₂ monitoring system using the **STM32F4 Nucleo board**. It integrates the **MAX301102 Pulse Oximeter and Heart-Rate Sensor** for PPG signal acquisition, and the **ILI9341 LCD** for real-time signal visualization and user interaction. The system features custom drivers for efficient data acquisition, filtering, peak detection, and parameter estimation.
 
 ## Features
 
